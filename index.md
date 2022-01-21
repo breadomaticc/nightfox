@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### Hi there 👋, NightFox_ here!
+#### I am internet explorer
+![I am internet explorer](https://discord.c99.nl/widget/theme-2/904150349139554324.png)
 
-You can use the [editor on GitHub](https://github.com/susbread/nightfox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I made this website just for fun
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Skills: HTML / CSS
 
-### Markdown
+- 🔭 I’m currently working on my game 
+- 🌱 I’m currently learning more HTML and CSS 
+- 📫 How to reach me: Contact me on discord SusBread#0930 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/susbread)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC0eAf-f0ZWr75E_WTBGYu4w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://nigthfox.dd.vu)  
 
-# Header 1
-## Header 2
-### Header 3
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- Bulleted
-- List
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susbread)](https://github.com/anuraghazra/github-readme-stats)
 
-1. Numbered
-2. List
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=susbread&show_icons=true)  
 
-**Bold** and _Italic_ and `Code` text
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susbread)  
 
-[Link](url) and ![Image](src)
-```
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=susbread)  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susbread/nightfox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
